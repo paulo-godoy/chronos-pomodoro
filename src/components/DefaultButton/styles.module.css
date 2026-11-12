@@ -1,7 +1,7 @@
 .button {
+  border: none;
   background: var(--primary);
   color: var(--text-over-primary);
-  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,6 @@
 .button svg {
   width: 3.2rem;
   height: 3.2rem;
-  margin-right: 0.8rem;
 }
 
 .button:hover {
